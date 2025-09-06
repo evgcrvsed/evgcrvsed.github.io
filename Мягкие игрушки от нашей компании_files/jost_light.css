@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Jost';
+src: url('/web/user/fonts/jost/jost_light.woff2?1') format('woff2'), url('/web/user/fonts/jost/jost_light.woff?1') format('woff'), url('/web/user/fonts/jost/jost_light.ttf?1') format('ttf');
+font-weight: 300;
+font-style: normal;
+font-display: swap;
+}
